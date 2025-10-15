@@ -1,6 +1,7 @@
+# -------------------------------------------
 # Práctica 6 - Ejercicio 3
 # Problema del intervalo 
-
+# -------------------------------------------
 def buscar_intervalo(A, q):
     # Caso base: si el arreglo tiene un solo elemento
     if len(A) == 1:
