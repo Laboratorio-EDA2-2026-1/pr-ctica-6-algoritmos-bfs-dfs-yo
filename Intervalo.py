@@ -1,5 +1,5 @@
 # Práctica 6 - Ejercicio 3
-# Problema del intervalo (versión sencilla con recursión)
+# Problema del intervalo 
 
 def buscar_intervalo(A, q):
     # Caso base: si el arreglo tiene un solo elemento
