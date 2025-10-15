@@ -1,5 +1,7 @@
+# -----------------------------------------
 # Práctica 6 - Ejercicio 1
 # N reinas con DFS 
+# -----------------------------------------
 
 def se_puede(colocar, fila, col, reinas):
     for c in range(col):
