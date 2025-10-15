@@ -1,5 +1,7 @@
+# ----------------------------------------------------
 # Práctica 6 - Ejercicio 2
 # N reinas con posiciones bloqueadas 
+# ----------------------------------------------------
 def se_puede2(sol, fila, col, bloqueadas):
     # Revisa si esta posición está bloqueada
     if col < len(bloqueadas) and bloqueadas[col] == fila:
